@@ -9,4 +9,4 @@ sudo service udev restart
 
 ================= add to bash =================
 export PATH="./FPGA_NSP/command:$PATH"
-alias open-ephys="./OpenEphysGUI/open-ephys"
+alias open-ephys="./open-ephys"
